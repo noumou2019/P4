@@ -31,6 +31,8 @@ public class AnalyticsCounter {
 			}
 
 			line = reader.readLine();	// get another symptom
+			
+			
 		}
 		
 		// next generate output
@@ -39,5 +41,6 @@ public class AnalyticsCounter {
 		writer.write("rash: " + rashCount + "\n");
 		writer.write("dialated pupils: " + pupilCount + "\n");
 		writer.close();
+		
 	}
 }
