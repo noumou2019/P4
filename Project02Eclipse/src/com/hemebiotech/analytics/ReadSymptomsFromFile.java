@@ -21,7 +21,7 @@ public class ReadSymptomsFromFile implements ISymptomReader {
         BufferedReader reader = null;
 
         try {
-            reader = new BufferedReader(new FileReader("/Project02Eclipse/symptoms.txt"));
+            reader = new BufferedReader(new FileReader("../Project02Eclipse/symptoms.txt"));
             String line = reader.readLine();
 
             while (line != null) {

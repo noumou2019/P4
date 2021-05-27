@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.hemebiotech.analytics","l":"AnalyticsMain"},{"p":"com.hemebiotech.analytics","l":"CountSymptoms"},{"p":"com.hemebiotech.analytics","l":"ISymptomReader"},{"p":"com.hemebiotech.analytics","l":"ReadSymptomsFromFile"},{"p":"com.hemebiotech.analytics","l":"WriteSymptomsInAFile"}]

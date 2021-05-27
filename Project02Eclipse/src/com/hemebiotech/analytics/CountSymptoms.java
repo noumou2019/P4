@@ -14,6 +14,8 @@ public class CountSymptoms {
 
 
 	TreeMap<String,Double> myMap = new TreeMap<String, Double>();
+	
+	
 
 	public Map<String, Integer> getCounterSymptomsABC(List<String> nameOfSymptoms){
 
